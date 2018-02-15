@@ -1,0 +1,29 @@
+{
+  "name": "jklogger",
+  "version": "0.0.1",
+  "description": "Simple wrapper for log4js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliankern/jkLogger.git"
+  },
+  "keywords": [
+    "logger",
+    "js",
+    "nodejs",
+    "log4js"
+  ],
+  "author": "Julian Kern <mail@juliankern.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliankern/jkLogger/issues"
+  },
+  "homepage": "https://github.com/juliankern/jkLogger#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "log4js": "^2.5.3"
+  }
+}
