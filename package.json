@@ -1,5 +1,5 @@
 {
-  "name": "jklogger",
+  "name": "@juliankern/jklogger",
   "version": "0.0.1",
   "description": "Simple wrapper for log4js",
   "main": "index.js",
