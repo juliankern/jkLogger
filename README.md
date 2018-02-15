@@ -2,7 +2,7 @@
 Simple wrapper for log4js 
 
 ## Install
-`npm i jkLogger`
+`npm i @juliankern/jkLogger`
 
 ## Usage
 
